@@ -9,7 +9,7 @@ for frontend<br />
     2. npm install or yarn install<br />
     3. npm run dev or yarn dev<br />
 
-
+dont forget to add .env file.
 
 
 
